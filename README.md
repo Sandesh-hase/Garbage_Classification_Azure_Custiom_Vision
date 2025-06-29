@@ -2,6 +2,8 @@
 
 This project demonstrates how to use Azure Custom Vision Prediction API to classify images and annotate them using Python.
 
+![pil_annotated](https://github.com/user-attachments/assets/084035dc-03d5-4c4c-8c32-80acf8760d3f)
+
 ## Setup
 
 1. **Clone the repository** and navigate to the project directory.
